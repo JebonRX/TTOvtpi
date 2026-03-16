@@ -4,7 +4,7 @@
     "id": "TV1",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Tv1.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/Tv1/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -12,7 +12,7 @@
     "id": "TV2",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Tv2.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/Tv2/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -20,7 +20,7 @@
     "id": "TV3",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Tv3.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/Tv3/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -28,7 +28,7 @@
     "id": "OKEY",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/OkeyTv.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/TvOkey/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -36,7 +36,7 @@
     "id": "TVS",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Tvs.jpg",
     "link": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -44,7 +44,7 @@
     "id": "TV6",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Tv6.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/Tv6/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -52,7 +52,7 @@
     "id": "DidikTvKPM",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/DidikTv.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/DidikTvKPM/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -60,7 +60,7 @@
     "id": "8TV",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/8tv.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/8tv/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -68,7 +68,7 @@
     "id": "TV9",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Tv9.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/Tv9/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -76,7 +76,7 @@
     "id": "DuniaSinema",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/DuniaSinema/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -84,7 +84,7 @@
     "id": "AlHijrah",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/TvAlhijrah/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -92,7 +92,7 @@
     "id": "BERITARTM",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/BeritaRtm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/BeritaRtm/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -100,7 +100,7 @@
     "id": "TVSUKAN",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/SukanRtm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/SukanRtm/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -108,7 +108,7 @@
     "id": "TVIKIM",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/TvIkim.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/TvIkim/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -116,7 +116,7 @@
     "id": "AstroAwani",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/AstroAwani/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -124,7 +124,7 @@
     "id": "BERNAMA",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/Bernama/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -132,7 +132,7 @@
     "id": "DewanRakyat",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/DewanRakyat/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -140,7 +140,7 @@
     "id": "DewanNegara",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/DewanNegara/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -148,7 +148,7 @@
     "id": "CartoonNetwork",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/CN.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/CartoonNetwork/index.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -156,7 +156,7 @@
     "id": "Hot Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/HotFm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/HotFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -164,7 +164,7 @@
     "id": "Best Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/bestfm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/BestFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -172,7 +172,7 @@
     "id": "Kool Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Kool101.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/BuletinFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -180,7 +180,7 @@
     "id": "ERA",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Era.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/Era/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -188,7 +188,7 @@
     "id": "Fly Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/FlyFm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/FlyFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -196,7 +196,7 @@
     "id": "Hitz Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/HitzFm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/HitzFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -204,7 +204,7 @@
     "id": "Johor Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/JohorFm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/JohorFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -212,7 +212,7 @@
     "id": "Nasional Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/NasionalFm.png"
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/NasionalFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -220,7 +220,7 @@
     "id": "Radio Klasik",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/RadioKlasik.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/RadioKlasik/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -228,7 +228,7 @@
     "id": "Sinar Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/SinarFm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/SinarFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -236,7 +236,7 @@
     "id": "Suria Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/Suria.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/SuriaFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -244,7 +244,7 @@
     "id": "Ria Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/RiaFm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/RiaFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -252,7 +252,7 @@
     "id": "Asyik Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/AsyikFm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/AsyikFm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
@@ -260,7 +260,7 @@
     "id": "8 Fm",
     "logo": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/logo/8Fm.png",
     "link": "https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/8Fm/playlist.m3u8",
-    "http_referrer": "https://mifntechnology.github.io/",
+    "http_referrer": "https://raw.githubusercontent.com/JebonRX/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   }
 ]
