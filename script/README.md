@@ -36,7 +36,7 @@
 					height="700"
 					data-setup="{}"
 					>
-					<source src=" https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8" type="application/vnd.apple.mpegurl">
+					<source src=" https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/channels/Tv1/index.m3u8" type="application/vnd.apple.mpegurl">
 				</video>
 			</body>
 		</center>
@@ -52,7 +52,7 @@
 
 
 ```html
-<link href="https://mifntechnology.github.io/siaranMy/script/radio.css" rel="stylesheet" />
+<link href="https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/script/radio.css" rel="stylesheet" />
 
 <div class="radio-container">
   <div class="radio-header">
@@ -65,7 +65,7 @@
       MIFNtechnology
     </div>
     <div class="radio-buttons">
-      <audio id="radioPlayer" src="https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8" autoplay="true" controls="true"></audio>
+      <audio id="radioPlayer" src="https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/radio/BestFm/playlist.m3u8" autoplay="true" controls="true"></audio>
       <div class="button button-play"><i class="fa fa-pause" aria-hidden="true"></i></div>
       <div class="button button-stop"><i class="fa fa-stop" aria-hidden="true"></i></div> 
       
@@ -145,7 +145,7 @@
 * GUNA SCRIPT CSS INI ATAU GUNA LINK YANG TERSEDIA PADA KOD HTML
 * CONTOH;
 
-* `<link href="https://mifntechnology.github.io/siaranMy/script/radio.css" rel="stylesheet" />`
+* `<link href="https://raw.githubusercontent.com/JebonRX/TTOvtpi/main/script/radio.css" rel="stylesheet" />`
 
 
 
